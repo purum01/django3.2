@@ -1,0 +1,16 @@
+1. 
+name : 체리 케잌
+image : cake1.jpg
+price : 25000
+
+2. 
+name : 초코 케잌
+image : cake2.jpg
+price : 35000
+
+
+3. 
+name : 딸기 케잌
+image : cake3.jpg
+price : 30000
+
